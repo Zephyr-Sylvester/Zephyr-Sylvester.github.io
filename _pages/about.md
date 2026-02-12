@@ -31,4 +31,4 @@ As a MAC3 Antarctic Scholar, I study the impacts of climate change on the marine
 
 In addition to my research role, I also serve as Communications Chair for the SCAR Krill Expert Group (SKEG), where I coordinate international scientific collaboration and science communication efforts related to Antarctic krill research.
 
-I am a member of the [The Brooks Lab](https://www.cassandrabrooks.com/research-group.html) and am advised by Dr. Cassandra Brooks 
+I am advised by Dr. Cassandra Brooks and am a member of the [The Brooks Lab](https://www.cassandrabrooks.com/research-group.html)
